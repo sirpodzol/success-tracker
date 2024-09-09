@@ -1,1 +1,2 @@
-On Mon Sep  9 12:48:38 2024, I got this to work
+On Mon Sep  9 12:48:38 2024, I got this to workOn Mon Sep  9 12:57:24 2024, I Made the program ask for input and added comments!
+On Mon Sep  9 12:58:29 2024, I Fixed appending, so it should go to a new line now
